@@ -1,0 +1,14 @@
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Repository\bin\Debug\netcoreapp2.0\ShopBridge.Repository.deps.json
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Repository\bin\Debug\netcoreapp2.0\ShopBridge.Repository.dll
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Repository\bin\Debug\netcoreapp2.0\ShopBridge.Repository.pdb
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Repository\bin\Debug\netcoreapp2.0\ShopBridge.Contracts.dll
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Repository\bin\Debug\netcoreapp2.0\ShopBridge.DAL.dll
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Repository\bin\Debug\netcoreapp2.0\ShopBridge.Contracts.pdb
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Repository\bin\Debug\netcoreapp2.0\ShopBridge.DAL.pdb
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Repository\obj\Debug\netcoreapp2.0\ShopBridge.Repository.csprojAssemblyReference.cache
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Repository\obj\Debug\netcoreapp2.0\ShopBridge.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Repository\obj\Debug\netcoreapp2.0\ShopBridge.Repository.AssemblyInfoInputs.cache
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Repository\obj\Debug\netcoreapp2.0\ShopBridge.Repository.AssemblyInfo.cs
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Repository\obj\Debug\netcoreapp2.0\ShopBridge.Repository.csproj.CopyComplete
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Repository\obj\Debug\netcoreapp2.0\ShopBridge.Repository.dll
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Repository\obj\Debug\netcoreapp2.0\ShopBridge.Repository.pdb
