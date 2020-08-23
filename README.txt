@@ -16,6 +16,7 @@ b). ng build(to check if any compile error is there ot not)
 c). Make sure the end point directs to the local host your API is running on in environment.ts
 d). ng serve run(to run the project)
 e). Use dist folder for deployment
+f). Port : http://localhost:4200/
 
 3). ShopBridgeAPI: Contains .Net core 2.0 with 6 internal projects following DOMAIN DRIVEN PATTERN:
 a). ShopBridgeAPI
@@ -24,6 +25,7 @@ c). ShopBridge.Service
 d). ShopBridge.Repository
 e). ShopBridge.DAL
 f). ShopBridge.UnitTest(X unit tests)
+g). Port : http://localhost:49921/
 
 Steps:
 a). Restore nuget packages and build before running
