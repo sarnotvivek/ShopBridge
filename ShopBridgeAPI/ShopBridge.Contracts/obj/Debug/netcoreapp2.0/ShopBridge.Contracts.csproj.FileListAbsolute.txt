@@ -1,0 +1,12 @@
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Contracts\bin\Debug\netcoreapp2.0\ShopBridge.Contracts.deps.json
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Contracts\bin\Debug\netcoreapp2.0\ShopBridge.Contracts.dll
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Contracts\bin\Debug\netcoreapp2.0\ShopBridge.Contracts.pdb
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Contracts\obj\Debug\netcoreapp2.0\ShopBridge.Contracts.csprojAssemblyReference.cache
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Contracts\obj\Debug\netcoreapp2.0\ShopBridge.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Contracts\obj\Debug\netcoreapp2.0\ShopBridge.Contracts.AssemblyInfoInputs.cache
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Contracts\obj\Debug\netcoreapp2.0\ShopBridge.Contracts.AssemblyInfo.cs
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Contracts\obj\Debug\netcoreapp2.0\ShopBridge.Contracts.dll
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Contracts\obj\Debug\netcoreapp2.0\ShopBridge.Contracts.pdb
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Contracts\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Contracts\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Yash\source\repos\Vivek\ShopBridge\ShopBridgeAPI\ShopBridge.Contracts\obj\Debug\netcoreapp2.0\ShopBridge.Contracts.csproj.CopyComplete
